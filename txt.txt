@@ -1,0 +1,7 @@
+Зображення: C:\MULTIMEDIA\StudyPROGRAMMING\T_OpenCVProj\IMG_DIR\cat_test_photo.jpg, Ширина: 595, Висота: 400
+Зображення: C:\MULTIMEDIA\StudyPROGRAMMING\T_OpenCVProj\IMG_DIR\spooky_halloween_night-wallpaper-1920x1080.jpg, Ширина: 1920, Висота: 1080
+Зображення: C:\MULTIMEDIA\StudyPROGRAMMING\T_OpenCVProj\IMG_DIR\cat_test_photo.jpg, Ширина: 595, Висота: 400
+Зображення: C:\MULTIMEDIA\StudyPROGRAMMING\T_OpenCVProj\IMG_DIR\cat_test_photo.jpg, Ширина: 595, Висота: 400
+Зображення: C:\MULTIMEDIA\StudyPROGRAMMING\T_OpenCVProj\IMG_DIR\cat_test_photo.jpg, Ширина: 595, Висота: 400
+Зображення: C:\MULTIMEDIA\StudyPROGRAMMING\T_OpenCVProj\IMG_DIR\spooky_halloween_night-wallpaper-1920x1080.jpg, Ширина: 1920, Висота: 1080
+Зображення: C:\MULTIMEDIA\StudyPROGRAMMING\T_OpenCVProj\IMG_DIR\spooky_halloween_night-wallpaper-1920x1080.jpg, Ширина: 1920, Висота: 1080
